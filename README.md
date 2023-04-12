@@ -70,9 +70,12 @@ RTL realization
 
 ![FAD](https://user-images.githubusercontent.com/119559844/231479034-c56d3d00-f48b-49ca-b0bd-fe558d075fed.png)
 
+![HA ](https://user-images.githubusercontent.com/119559844/231479724-a4500f47-c569-424b-8b2d-cbd526ec6415.png)
+
+![FA ](https://user-images.githubusercontent.com/119559844/231479778-b868f13b-b57d-4c56-ab82-90a703444d8f.png)
+
+
 ![PODA](https://user-images.githubusercontent.com/119559844/231479181-c4710442-6410-4524-a518-0624b5683646.png)
-
-
 
 
 ![TTF ](https://user-images.githubusercontent.com/119559844/231479228-a58847cc-11d8-4463-8648-07a98ab13319.png)
