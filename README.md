@@ -70,14 +70,17 @@ half adder:
 ![HAD](https://user-images.githubusercontent.com/119559844/231478947-e4607ba6-ff2e-4410-9df6-315e45f2d356.png)
 
 full adder:
+
 ![FAD](https://user-images.githubusercontent.com/119559844/231479034-c56d3d00-f48b-49ca-b0bd-fe558d075fed.png)
 
 TIMING DIAGRAM:
 
 half adder:
+
 ![HA ](https://user-images.githubusercontent.com/119559844/231479724-a4500f47-c569-424b-8b2d-cbd526ec6415.png)
 
 full adder:
+
 ![FA ](https://user-images.githubusercontent.com/119559844/231479778-b868f13b-b57d-4c56-ab82-90a703444d8f.png)
 
 TRUTH TABLE:
