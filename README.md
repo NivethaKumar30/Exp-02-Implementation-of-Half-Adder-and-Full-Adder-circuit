@@ -83,17 +83,11 @@ full adder:
 TRUTH TABLE:
 
 half adder:
+
 ![PODA](https://user-images.githubusercontent.com/119559844/231479181-c4710442-6410-4524-a518-0624b5683646.png)
 
 full adder:
+
 ![TTF ](https://user-images.githubusercontent.com/119559844/231479228-a58847cc-11d8-4463-8648-07a98ab13319.png)
-
-
-### Output:
-### RTL
-### TIMING DIAGRAM
-
-
-### TRUTH TABLE 
 
 ### Result:
