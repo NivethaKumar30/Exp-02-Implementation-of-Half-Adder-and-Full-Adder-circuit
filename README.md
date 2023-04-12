@@ -65,8 +65,11 @@ endmodule
 ```
 
 Logic symbol & Truthtable
+
 RTL realization
+
 half adder:
+
 ![HAD](https://user-images.githubusercontent.com/119559844/231478947-e4607ba6-ff2e-4410-9df6-315e45f2d356.png)
 
 full adder:
