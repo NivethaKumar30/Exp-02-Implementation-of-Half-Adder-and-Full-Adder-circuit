@@ -49,9 +49,10 @@ output s,c;
 xor (s,a,b);
 and (c,a,b);
 endmodule
+```
+```
 full adder:
-```
-```
+
 module fulladder(a,b,ci,s,co);
 input a,b,ci;
 output s,co;
