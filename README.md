@@ -43,24 +43,21 @@ RegisterNumber: 212222230102
 ```
 half adder:
 ```
-module halfadder(a,b,s,c);
+module halfadder(a,b,sum,carry);
 input a,b;
-output s,c;
-xor (s,a,b);
-and (c,a,b);
+output sum,carry;
+xor(sum,a,b);
+and(carry,a,b);
 endmodule
 ```
 full adder:
 ```
-module fulladder(a,b,ci,s,co);
-input a,b,ci;
-output s,co;
-wire d,e,f;
-xor (d,a,b);
-xor (s,d,ci);
-and (f,a,b);
-or (co,e,f);
-endmodule
+module fulladder(a,b,c,sum,carry);
+input a,b,c;
+output sum,carry;
+assign sum = ((a^b)^c);
+assign carry = ((a&b)|(b&c)|(c&a));
+endmodule 
 ```
 Logic symbol & Truthtable
 
