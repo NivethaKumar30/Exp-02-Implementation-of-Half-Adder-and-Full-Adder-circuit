@@ -75,11 +75,11 @@ TIMING DIAGRAM:
 
 half adder:
 
-![HA ](https://user-images.githubusercontent.com/119559844/231479724-a4500f47-c569-424b-8b2d-cbd526ec6415.png)
+![1](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/b7e4aef5-5bc8-4044-992e-f6aff9c0c3ca)
 
 full adder:
 
-![FA ](https://user-images.githubusercontent.com/119559844/231479778-b868f13b-b57d-4c56-ab82-90a703444d8f.png)
+![3](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/734e6779-dfb4-48f9-9248-7396ee40cf1b)
 
 TRUTH TABLE:
 
