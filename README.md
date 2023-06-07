@@ -42,7 +42,7 @@ Developed by: NIVETHA K
 RegisterNumber: 212222230102
 ```
 half adder:
-
+```
 module halfadder(a,b,s,c);
 input a,b;
 output s,c;
@@ -50,9 +50,8 @@ xor (s,a,b);
 and (c,a,b);
 endmodule
 ```
-```
 full adder:
-
+```
 module fulladder(a,b,ci,s,co);
 input a,b,ci;
 output s,co;
@@ -63,7 +62,6 @@ and (f,a,b);
 or (co,e,f);
 endmodule
 ```
-
 Logic symbol & Truthtable
 
 RTL realization
