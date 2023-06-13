@@ -91,11 +91,11 @@ TRUTH TABLE:
 
 half adder:
 
-![PODA](https://user-images.githubusercontent.com/119559844/231479181-c4710442-6410-4524-a518-0624b5683646.png)
+![image](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/843100a5-3482-491e-bce4-b743104c5972)
 
 full adder:
 
-![TTF ](https://user-images.githubusercontent.com/119559844/231479228-a58847cc-11d8-4463-8648-07a98ab13319.png)
+![image](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/210250de-ea86-438c-9144-6c62f69ef6e4)
 
 ### Result:
 
