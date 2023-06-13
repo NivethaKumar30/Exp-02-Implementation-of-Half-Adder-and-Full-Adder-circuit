@@ -71,11 +71,11 @@ RTL realization
 
 half adder:
 
-![HAD](https://user-images.githubusercontent.com/119559844/231478947-e4607ba6-ff2e-4410-9df6-315e45f2d356.png)
+![image](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/1557d32d-5f14-41c7-adb8-e959f04485f1)
 
 full adder:
 
-![FAD](https://user-images.githubusercontent.com/119559844/231479034-c56d3d00-f48b-49ca-b0bd-fe558d075fed.png)
+![image](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/3d2068f1-e145-4fce-8ff0-0aabffe63bc5)
 
 TIMING DIAGRAM:
 
