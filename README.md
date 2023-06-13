@@ -41,17 +41,16 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: NIVETHA K 
 RegisterNumber: 212222230102
 ```
-half adder:
 ```
+HALF ADDER  
 module halfadder(a,b,sum,carry);
 input a,b;
 output sum,carry;
 xor(sum,a,b);
 and(carry,a,b);
-endmodule
-```
-full adder:
-```
+endmodule 
+
+FULL ADDER  
 module fulladder(a,b,c,sum,carry);
 input a,b,c;
 output sum,carry;
@@ -59,7 +58,14 @@ assign sum = ((a^b)^c);
 assign carry = ((a&b)|(b&c)|(c&a));
 endmodule 
 ```
-Logic symbol & Truthtable
+Logic symbol
+
+![image](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/32eee3cf-1783-4c3c-b344-553994804f8a)
+
+![image](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/4a51818b-f204-4467-a95f-03111ae36f22)
+
+![image](https://github.com/NivethaKumar30/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119559844/98421da9-22c1-4282-b552-1c42f65fce69)
+
 
 RTL realization
 
